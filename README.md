@@ -1,2 +1,2 @@
 # tic-tac-toe
-My first milestone project using Python, a traditions Tic Tac Toe
+My first milestone project using Python, a traditional Tic Tac Toe
